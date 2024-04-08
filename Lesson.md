@@ -1,4 +1,4 @@
-# 4.5 Random Numbers
+# 4.4 Random Numbers
 
 Sometimes we want to use random generated numbers to create a guessing game or simulate a dice roll.
 
